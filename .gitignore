@@ -1,0 +1,17 @@
+# Dependency directory
+node_modules/
+
+# Environment configuration
+.env
+
+# Logs
+logs/
+*.log
+
+# macOS specific
+.DS_Store
+
+# Temporary files
+tmp/
+temp/
+
