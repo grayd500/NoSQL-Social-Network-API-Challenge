@@ -1,5 +1,6 @@
 // routes/userRoutes.js:
 const router = require('express').Router();
+const mongoose = require('mongoose');
 const { User } = require('../models');
 
 router.get('/users', async (req, res) => {
